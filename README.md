@@ -6,7 +6,7 @@ DEMO: [https://dexter-lab-02.web.app/](https://dexter-lab-02.web.app/)
 
 ## Steps to review this repo
 
-- [ ] run `. ./scripts/web.server`
+- [ ] run `. ./scripts/web.server.sh`
 
 ## Steps to install in fresh expo project
 
