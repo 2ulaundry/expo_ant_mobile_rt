@@ -1,4 +1,4 @@
-# POC Expo with ant mobile RN
+# POC Expo with ant mobile RN (IOS|Android|Web)
 
 DEMO: [https://dexter-lab-02.web.app/](https://dexter-lab-02.web.app/)
 
